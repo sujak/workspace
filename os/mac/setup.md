@@ -5,7 +5,7 @@ macOS High Sierra 10.13.4 기준으로 작성
 ### 컴퓨터 이름 변경
 
 - 시스템 환경설정 -> 공유 -> 컴퓨터이름
-- `sudo scutil --set 기존호스트명 새로운호스트명`
+- `sudo scutil --set HostName 새로운호스트명`
 
 ### 키보드 설정 변경
 
